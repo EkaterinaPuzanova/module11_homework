@@ -1,0 +1,17 @@
+{
+  "name": "module11_homework",
+  "version": "1.0.0",
+  "description": "tests for function-task5",
+  "main": "function-task5.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Puzanova Ekaterina",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.21.0",
+    "@babel/preset-env": "^7.20.2",
+    "babel-jest": "^29.4.3",
+    "jest": "^29.4.3"
+  }
+}
